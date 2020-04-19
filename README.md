@@ -1,0 +1,2 @@
+# TModBofuri
+Terraria Anime Mod
